@@ -1,2 +1,12 @@
 # Zeroes-to-the-end
-Click on the above link to get the solution
+# 
+# 
+# Sample Input 0:
+# 
+# 6
+# 1 0 3 0 0 5
+# 
+# 
+# Sample Output 0:
+# 
+# 1 3 5 0 0 0
